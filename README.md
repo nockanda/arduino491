@@ -1,5 +1,7 @@
 # arduino491
 
+https://youtu.be/AHDZInbjfrY
+
 녹칸다의 ESPNOW시리즈이다!<BR>
 이번편은 녹칸다가 새롭게 구입한 wemos D1 mini보드에서 espnow가 잘 작동되는지 확인해보도록한다!<BR>
 그리고 아래와 같은 가정이 있다고 해보자!<BR>
